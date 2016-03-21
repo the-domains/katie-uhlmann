@@ -1,0 +1,28 @@
+name: Katie Uhlmann
+favicon: null
+layout_spectrum: 0.43586799199692905
+typography_spectrum: 0.7152313531842083
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.6306178094819188
+  lightness: 0.18944086879491806
+  saturation: 0.7382317630108446
+  rhythmicContrast: 0.16258262121118605
+purpose: []
